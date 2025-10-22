@@ -8,11 +8,11 @@ The program provides an interactive CLI interface to control Bluetooth operation
 
 ## Features
 
-Power on/off Bluetooth adapter
-Toggle discoverability of the Bluetooth adapter
-Scan for available Bluetooth devices (both BLE and Classic)
-Connect, disconnect, pair, and remove Bluetooth devices
-Display current Bluetooth adapter properties
+- Power on/off Bluetooth adapter
+- Toggle discoverability of the Bluetooth adapter
+- Scan for available Bluetooth devices (both BLE and Classic)
+- Connect, disconnect, pair, and remove Bluetooth devices
+- Display current Bluetooth adapter properties
 
 ## Installation
 
